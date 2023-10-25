@@ -12,8 +12,18 @@ export default function Home() {
         </p>
       </div>
 
+      <div className="prose prose-invert mx-auto max-w-none lg:prose-lg mb-10">
+        <h2>Boss Notes</h2>
+        <ol>
+          <li>
+            <a href="#gnarlroot">Gnarlroot</a>
+            <a href="#igira">Igira the Cruel</a>
+          </li>
+        </ol>
+      </div>
+
       <div className="prose prose-invert mx-auto max-w-none lg:prose-lg">
-        <h2>Gnarlroot</h2>
+        <h2 id="gnarlroot">Gnarlroot</h2>
 
         <h3>Phase One</h3>
         <ul>
@@ -150,7 +160,7 @@ export default function Home() {
           </li>
         </ul>
 
-        <h2>Igira the Cruel</h2>
+        <h2 id="igira">Igira the Cruel</h2>
       </div>
     </main>
   );
