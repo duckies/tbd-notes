@@ -151,7 +151,8 @@ export default function Home() {
             treant&quot; prioritization is a simpler strategy for an earlier
             boss such as this. For example, there&apos;s no way to mark players
             in a way where a certain mark is guaranteed to be anywhere remotely
-            close to a lasher.
+            close to a treant given that they don&apos;t spawn in the same
+            cardinal pattern as the lashers.
           </li>
           <li>
             First burn phase is roughly 2 minutes in. Seems ideal to blow cds on
