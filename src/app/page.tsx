@@ -149,6 +149,8 @@ export default function Home() {
             phase.
           </li>
         </ul>
+
+        <h2>Igira the Cruel</h2>
       </div>
     </main>
   );
