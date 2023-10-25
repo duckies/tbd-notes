@@ -17,6 +17,8 @@ export default function Home() {
         <ol>
           <li>
             <a href="#gnarlroot">Gnarlroot</a>
+          </li>
+          <li>
             <a href="#igira">Igira the Cruel</a>
           </li>
         </ol>
